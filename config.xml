@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://paulosalgado.xyz/CamerasIpApp" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="4iWcmtMuBR.CmerasIp" package="4iWcmtMuBR" required_version="2.3"/>
+    <author email="pjosalgado@gmail.com">Paulo Salgado</author>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
+    <icon src="icon.png"/>
+    <name>Câmeras Ip</name>
+    <tizen:profile name="tv-samsung"/>
+    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>
