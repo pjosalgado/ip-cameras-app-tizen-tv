@@ -1,0 +1,31 @@
+.camera1 {
+	position: fixed;
+	top: 0.5%;
+	left: 0.5%;
+	width: 49%;
+	height: 49%;
+}
+
+.camera2 {
+	position: fixed;
+	top: 0.5%;
+	left: 50%;
+	width: 49.5%;
+	height: 49%;
+}
+
+.camera3 {
+	position: fixed;
+	top: 50%;
+	left: 0.5%;
+	width: 49%;
+	height: 49%;
+}
+
+.camera4 {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	width: 49.5%;
+	height: 49%;
+}
