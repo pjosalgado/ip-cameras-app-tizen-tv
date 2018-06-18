@@ -2,33 +2,45 @@
 <SignedInfo>
 <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI=".gitignore">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZG4mzZ80AAIf6zHNu8I1Lk2Mfzxg/zO1JjwnPjPYDZ0=</DigestValue>
+</Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ngV4jlkNHlA7892zoD2RUGPS4h275eUPdnjzc7T+/ew=</DigestValue>
+<DigestValue>Cla5V8DFxisx4lOeqt/UFeBxMSsrBXnoOXAO7maqGOo=</DigestValue>
+</Reference>
+<Reference URI="css%2Fcameras-grid.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VV0kONMUOn0j8RA2QY1K/w/e6+WkB+4z3DiRWqxF+h4=</DigestValue>
+</Reference>
+<Reference URI="css%2Fdetalhes-camera.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ldVnLkQOwtI+qDNaWWAl3cLA66gfEKJi6SbHku1X8c0=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>1cUcIetNYRd3XJBtgb4sUqYQ8vaF6fDLOOjzyeL1qW4=</DigestValue>
+<DigestValue>gvky3Ca7mpQLrj4pB+We0HxYZoqZlRQUjNYheutdJQo=</DigestValue>
+</Reference>
+<Reference URI="detalhes-camera.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>74Fsxq2MVnlO8b2shohus22gpPhI0SPXMvs8xdQSzzM=</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+<DigestValue>zHnnOhLOYA2/IJcke4uNn6A0WLukgvZp/ObV1cr5fPM=</DigestValue>
 </Reference>
 <Reference URI="images%2Fno-connected-camera.jpg">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>okEe6085IHepI3g6yqyYS1c0A5C2U8hyUKTJEIWyagk=</DigestValue>
 </Reference>
-<Reference URI="images%2Ftizen_32.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>eDr9ZPFlGlapLDnI1BiALwqovNdBvx3Aspc/lWOH3WI=</DigestValue>
-</Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>oG9YxPxg4eEDV5DMZr26DltPozfwFUXxs8/mfgQ+Dww=</DigestValue>
+<DigestValue>fU/bt/upBQG144pq2D6BaRqVrJshelxu/tjg/nrLF4o=</DigestValue>
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>HzRntkxNMhx53NA7kL0wwEQShxNSopm605TufFzETA8=</DigestValue>
+<DigestValue>79JEWaHDpL6VF9FRwDclU9+4ri9g9VCNe2r8JIOZ6d8=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -39,9 +51,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-B1UFEMCjc9Y/3n2XdTUhcY/41+M4QCARTv1shcVFx+a0rzXcO+TAEZEWfu8byvD2iRcGWoOzCe5Q
-+ShBEeKSWSdhwyRjtOsbcYkdDgaCU5UGkFuCStCGG+dORYLueMmYFnSv9vpkESxaOzoSHgZTeSZf
-x7BQqGStF09fTThiDOg=
+kgonEzGkfCMjeYS6x39r4mBMC3h4vbAhQSnSVgwdtVnmYQcDW1FXAVqZYokQmwiZQs3y31c3De8r
+spdDoTeSPyl2a6iSqbecZxgeLLDuE56oL9FenMNtaHLgTCu3HMdMUittE5CCSShqUItI0PqqCZHt
+KE0q2xivDsGmKTpRANg=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
