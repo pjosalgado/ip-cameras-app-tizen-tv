@@ -4,11 +4,11 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI=".gitignore">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ZG4mzZ80AAIf6zHNu8I1Lk2Mfzxg/zO1JjwnPjPYDZ0=</DigestValue>
+<DigestValue>DKgBjHX/oWptTarAfjjl1DV5DfzrCz1F4+ty6YIdGMY=</DigestValue>
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Bez9Vzx8cSvuOt59URpyPAb0wfsWSaGQX5RxfESisBw=</DigestValue>
+<DigestValue>NjNPvWKIAnIais59z6DOyW/x3Fjjl7kOWDpgKpsz53Y=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -28,7 +28,7 @@
 </Reference>
 <Reference URI="detalhes-camera.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>74Fsxq2MVnlO8b2shohus22gpPhI0SPXMvs8xdQSzzM=</DigestValue>
+<DigestValue>ZqFaWA6AVUPBiyXXhljtV6n6rD6ThYJ8JwvY1u8Hql4=</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -40,7 +40,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>fU/bt/upBQG144pq2D6BaRqVrJshelxu/tjg/nrLF4o=</DigestValue>
+<DigestValue>2GQPlTzIUtuUR6abhXKZoqlpmE3I4j21TZnZgYBGCYE=</DigestValue>
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -55,9 +55,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-jgpgd1LqXuypCdS1haUNiDYwWPtS4B7FiQbfaDkDi0t5dsV7VTyYa/yBBPyY8l2mQsn3tGXxH9Ij
-b23HfSC+g2eRDXnkGwQ85i8BVGx3tMvaVxaSX+0r4drr52dsPtETbFEorEW5h3SlN9R9TbkGVSQz
-tpt8+PD0kT1OHJoDq6A=
+AKeL7aRh4yPvipr/pC5yPwoPSwAlhNI5bbSuCGC55w05sgZ537EEoEKLFBhGuWbzJEX2AAGjGr+M
+0EkvEq1d4OzBYY+vEQJFR94JIpSmwVBZ4yBbGyQV5oUo35+lCl96tiBbNevJryc1XvxAG8BbefoC
+5XyCaTO/9wZnrQAgOeY=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
