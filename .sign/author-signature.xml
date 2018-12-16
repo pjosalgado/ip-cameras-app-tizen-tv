@@ -30,6 +30,10 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>ZqFaWA6AVUPBiyXXhljtV6n6rD6ThYJ8JwvY1u8Hql4=</DigestValue>
 </Reference>
+<Reference URI="dist%2FCamerasIpApp.wgt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YJtZLsL+Y5v88y7yaKnGKbNn/C9iXNytuFjb5RSmf5U=</DigestValue>
+</Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>zHnnOhLOYA2/IJcke4uNn6A0WLukgvZp/ObV1cr5fPM=</DigestValue>
@@ -55,9 +59,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-GErBbFygRvn5uKODF0EXTYXLzOFEQU7to9DicjpMnCuX5XZ1eFIqGLGHKh9XB3GkJ1mUFSOyTO1e
-lGx53/eteFFGmBfiy97dQmeyQslRbDuRbEgO4V0/N0szUTWkLsS8T7JPgUu3sxvBdCvkop3jZHmt
-6lmd7XNcx/r/3pziWtQ=
+quPtQ17Up7cQb27nDkCuuM1nFyjhHC3/EZfuAj5tn8EjGn6L8ald3qyeF1JLtbbzzC1tQX1Byinn
+5miVPHLv+Z4TugV12cTkyzObN/xjRsueLZhOV8R9jL2H+svHGAJwL+oej7kqF1QZoZRmoeyt661a
+ZtfpXDkNI6vSr2wJqLI=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
