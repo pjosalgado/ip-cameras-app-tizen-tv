@@ -32,7 +32,7 @@
 </Reference>
 <Reference URI="dist%2FCamerasIpApp.wgt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>YJtZLsL+Y5v88y7yaKnGKbNn/C9iXNytuFjb5RSmf5U=</DigestValue>
+<DigestValue>wXRvJFZz9OUHBjydZ33VuqlVJt4giVp0kFcz220Qj2I=</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -59,9 +59,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-quPtQ17Up7cQb27nDkCuuM1nFyjhHC3/EZfuAj5tn8EjGn6L8ald3qyeF1JLtbbzzC1tQX1Byinn
-5miVPHLv+Z4TugV12cTkyzObN/xjRsueLZhOV8R9jL2H+svHGAJwL+oej7kqF1QZoZRmoeyt661a
-ZtfpXDkNI6vSr2wJqLI=
+b12UO3jZHnhdsU0g89pqM8e6ycLBBiK0KoIxLS+q6E6MueL+/ZGPGbOt5CPu8KiF7NjAOyVmuNoZ
+On0KHGFG8yhIyye1ET1vWKZOKMdVdg9mRwyFAEE8a4sj+yZC76AWCnOCJexSuzKoXsF2NnzYsvMl
+J82GphjCfrNq8LlOZic=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

@@ -12,7 +12,7 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>dLS02hKuA0QA2j0AhxI98UJ3GZz7LuTkMM/JpV5Ou8E=</DigestValue>
+<DigestValue>cKS0hBlS8/zggsrydSKEKZZd757XsDTXFJB0tzzJGtM=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -36,7 +36,7 @@
 </Reference>
 <Reference URI="dist%2FCamerasIpApp.wgt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>YJtZLsL+Y5v88y7yaKnGKbNn/C9iXNytuFjb5RSmf5U=</DigestValue>
+<DigestValue>wXRvJFZz9OUHBjydZ33VuqlVJt4giVp0kFcz220Qj2I=</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -63,9 +63,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-EUREE1JbLLm5oFgIP+Nxij9E7o80OsRWe595Dx58HaDUi7EI6asM6llldpvMXP/+DHPTlVLk7jgz
-xVKnOAHqp+8x6sy1/RLg6xNzxB5Q2xzfX0DfwXvpLQrg3Ooskq8OHMUpqYGDJlrGA9tcEsz6Yhrp
-G8jV8fDmGCzjtmcGDy4=
+bCL99NfJpBR5KM1KIzUyWjcaFGllC6Sg4UOxqSyN8zxuMxyEd++eugOD3w7ROvjGej74CcaalJ4R
+OzMisWdOKbX4vGVjnVv+mnVKrJlWv4Y3fHqfxnUImI23ciSnLp9qvY3Di3DiHO3aaz8y9A01uqe6
+bthiiTQ7JLEer8at0MY=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
