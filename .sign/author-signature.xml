@@ -6,6 +6,10 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>DKgBjHX/oWptTarAfjjl1DV5DfzrCz1F4+ty6YIdGMY=</DigestValue>
 </Reference>
+<Reference URI="LICENSE">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VeA7WwZtfHri7sBW/MI8HFok05aK8LHUo5WFjfxFtak=</DigestValue>
+</Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>Cla5V8DFxisx4lOeqt/UFeBxMSsrBXnoOXAO7maqGOo=</DigestValue>
@@ -51,9 +55,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-HYjj4GowNqIV/iKAmSt29jy6tv2bYZ0vxnPfl/9CsFs+rb+WCZpZkASvw13nDWKRkm7j/87Vp186
-qIwdTb+0XRPq4ke/ykl8MoxBZg9zAGlaQhOJW6Mf3EO5Gd6nT+Gq0KZQ6Rn0lWQKwRwdWwflO8mQ
-2KzuMFNTPJAfFlIA+p4=
+GErBbFygRvn5uKODF0EXTYXLzOFEQU7to9DicjpMnCuX5XZ1eFIqGLGHKh9XB3GkJ1mUFSOyTO1e
+lGx53/eteFFGmBfiy97dQmeyQslRbDuRbEgO4V0/N0szUTWkLsS8T7JPgUu3sxvBdCvkop3jZHmt
+6lmd7XNcx/r/3pziWtQ=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
