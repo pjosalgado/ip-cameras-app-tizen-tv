@@ -10,9 +10,25 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>VeA7WwZtfHri7sBW/MI8HFok05aK8LHUo5WFjfxFtak=</DigestValue>
 </Reference>
+<Reference URI="cameras%2Fcamera1.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jK/mu83ty6gFUHWk5SL11uXOI6L3S9GL/667D3fhz6s=</DigestValue>
+</Reference>
+<Reference URI="cameras%2Fcamera2.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+OLYxxdVEDL+6TTJhCnnzYKsdOTidQy31GLslfb9RMA=</DigestValue>
+</Reference>
+<Reference URI="cameras%2Fcamera3.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5jPb9fgVwhCOq6L/Yh3gWRhAWcqxLqvyGnW0VTacQQY=</DigestValue>
+</Reference>
+<Reference URI="cameras%2Fcamera4.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4vLsSvXK39LwvW5NjnZtFLdnjONETqrHKEQaA0SlEpI=</DigestValue>
+</Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Cla5V8DFxisx4lOeqt/UFeBxMSsrBXnoOXAO7maqGOo=</DigestValue>
+<DigestValue>0HDAWl4vD6+OlRCH0zZG2vN3m0cjaGcomv1p/Aqwtq0=</DigestValue>
 </Reference>
 <Reference URI="css%2Fcameras-grid.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -24,11 +40,7 @@
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>gvky3Ca7mpQLrj4pB+We0HxYZoqZlRQUjNYheutdJQo=</DigestValue>
-</Reference>
-<Reference URI="detalhes-camera.html">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ZqFaWA6AVUPBiyXXhljtV6n6rD6ThYJ8JwvY1u8Hql4=</DigestValue>
+<DigestValue>WawRp8L2s1qpOlD8aV1L3odpjYincbePOREnFQwAHy0=</DigestValue>
 </Reference>
 <Reference URI="dist%2FCamerasIpApp.wgt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -44,11 +56,15 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2GQPlTzIUtuUR6abhXKZoqlpmE3I4j21TZnZgYBGCYE=</DigestValue>
+<DigestValue>mF1yt6rbPfLNPo2Yv02H8aBPAROA4+2X3aLycwLi32I=</DigestValue>
+</Reference>
+<Reference URI="js%2Fcamera-foco.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2kIwUXS30GR/oEVR29PItp7v3UJ6p3OfdsBhXoM0Gdo=</DigestValue>
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>79JEWaHDpL6VF9FRwDclU9+4ri9g9VCNe2r8JIOZ6d8=</DigestValue>
+<DigestValue>5MPfuAL4+vlzhQ5zAdoITAc5WKG+uZQ8w/5Ym+Z+Kxc=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -59,43 +75,49 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-b12UO3jZHnhdsU0g89pqM8e6ycLBBiK0KoIxLS+q6E6MueL+/ZGPGbOt5CPu8KiF7NjAOyVmuNoZ
-On0KHGFG8yhIyye1ET1vWKZOKMdVdg9mRwyFAEE8a4sj+yZC76AWCnOCJexSuzKoXsF2NnzYsvMl
-J82GphjCfrNq8LlOZic=
+Pb+tkXnDVmgRXe6uLbtzbBMUZcFCrD9FjliJO3USLMRzDYwkB+otQk4uQQuldUYgVjBW1RUbf/1g
+W4YGN4maPq4kSdOeigHgTA2oG3k+81UbaSIlffwj972aQttHNshnWM9cRljXoNoPIrjm9psrnt8Z
+a5YsmoCmdU1PzEJcnNJ6brs88Uyd/dry7xNNBVrYBZOt46UWzzjt60ILAV5mQ2REbZ5pJ6IJmdkO
+DUqB+QnsKyjAe2x+9AD5HmhJZzDbGKIAMRzUO6QSOSUr2u7n5OnBFeBKujFv3Ke5XNNaYdrc8OSK
+k9WbNvnstXbtgFO5+QAKpRhm3ildWcSuEAtEgA==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
 <X509Certificate>
-MIICwTCCAamgAwIBAgIGAWTYigM6MA0GCSqGSIb3DQEBBQUAMFYxGjAYBgNVBAoMEVRpemVuIEFz
-c29jaWF0aW9uMRowGAYDVQQLDBFUaXplbiBBc3NvY2lhdGlvbjEcMBoGA1UEAwwTVGl6ZW4gRGV2
-ZWxvcGVycyBDQTAeFw0xMjExMDEwMDAwMDBaFw0xOTAxMDEwMDAwMDBaMD0xIzAhBgkqhkiG9w0B
-CQEWFHBqb3NhbGdhZG9AZ21haWwuY29tMRYwFAYDVQQDDA1QYXVsbyBTYWxnYWRvMIGfMA0GCSqG
-SIb3DQEBAQUAA4GNADCBiQKBgQCvr9C2rBbpBGQuYNFgzuvMN7pPNtZQ23i64ijPDDhvCZTR/RVv
-GbF5rMValJmn1oVoB8P1rfEfbxUZdaxXRiXNCIeOsO2I96reHh1/F/KFX+Sk2gqHH6Axgz1byUTA
-GEwVBlPKngQ4kXh+kv/9VgEK+7jw0sOhYLsTKMNx+jhZkwIDAQABozIwMDAMBgNVHRMBAf8EAjAA
-MAsGA1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzANBgkqhkiG9w0BAQUFAAOCAQEA0PFI
-QPvHnWl1rIkh81hjsifmR/s3EHGCsJ+aXBHN7An6MFTWqZvSF8JTuLRxnHRWvd1s0hrBjEuhqug3
-y1N1Qv3Geth0lxamfOx7O/NPjBqDSaV6of/jj3THOHbdhTFRZZ4TQ7tvZwVq3clVYE1Y3+5dFoWD
-/YL/vYBVgtDxyQa/CWl1zdiSVVe2V6nNxqS9WX++UKyhML3Irt0gl2GntKgc9XcpfokmX7hz4lcu
-GYLqMBDFlPRSWAIYQCFs3hPO2WC7IjLY70R38tAhmQnE+fMTneFWVt52y6MAujb/TwzkoJProi4J
-sYIf0+bKaNlErUWG9Tbs2xTUPTja6e53VQ==
+MIIDbzCCAlegAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBijELMAkGA1UEBhMCS1IxFDASBgNVBAgT
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHEwVTdXdvbjEmMCQGA1UEChMdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xCzAJBgNVBAsTAlZEMSAwHgYDVQQDExdTYW1zdW5nIEF1dGhvciBDQSBDbGFz
+czAeFw0xODEyMTYyMDE2NTRaFw0xOTEyMTYyMDE2NTRaME8xCTAHBgNVBAYTADEJMAcGA1UECBMA
+MQkwBwYDVQQHEwAxCTAHBgNVBAoTADEJMAcGA1UECxMAMRYwFAYDVQQDEw1QYXVsbyBTYWxnYWRv
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArHG/EZiQYp6AyHzy18g2vnOtS1CQWeJn
+o4VkLKdoAXPdFy+VO2a3ULWM5WRE/W5/KOPDRntipD2inlxl1Fc8tvNN6k1xMAGeQvV3HTUe2xyt
+zN9j4oW8BqIsu8R2+0TCvpero3GkhQ/PbRBsp/NHWBmzBpya7IZq4QU9kfgWlk8PZTaMVXz+Yd/7
+fo/wqDdYADRmCiqUG3UssQIdAQgHe50US7HzL1J4k762iQHtJRsxAnqxcAJQmr++V6dCCKzLh3Hp
+ys8ri78VBkb580/0LyzeEbDEtNLSz1p1lWEyJxlc4Bmt7agiDq7MHhnH2RCxlp34Nz3GHQRurmaq
++sPc/QIDAQABoxowGDAJBgNVHRMEAjAAMAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEA
+d/mVIh52LxAiGevh8qAeOempZJ1fHgs7p3J4f1rAZpG2O0LEqJm0KWpoEK4cMF62JC5Z15PQRUK7
+8mlyzn2P3gobhk0+QaIEeYgCikfEp+eqSwscrL8aG00wNYPwY4h/15RIt+699omgNBMJHOSGnIhb
++l5id2k1CU4BP77q1pCmvZD9VVZtS2CzONEISjwLlun55EZ1smy3yS+8plezv9vmeCz9zdiuHt8B
+EPLIIdQ08TdqxGqix1UIQKRXb5Kxm8lEzXwWNpVOqbCRT5WpzvEx6mdgaTNbG4n7GwY9qOld01Sa
+lON72zsWJPijZjE+MiyAF9L1GwzAC01YmgcUMA==
 </X509Certificate>
 <X509Certificate>
-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
+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
 </X509Certificate>
 </X509Data>
 </KeyInfo>

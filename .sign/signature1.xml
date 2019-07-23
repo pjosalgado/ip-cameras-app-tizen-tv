@@ -12,11 +12,27 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>cKS0hBlS8/zggsrydSKEKZZd757XsDTXFJB0tzzJGtM=</DigestValue>
+<DigestValue>49+NQfnen4apcwRnMzUgE5vj2C9Cv1VNhrbiOleTM5k=</DigestValue>
+</Reference>
+<Reference URI="cameras%2Fcamera1.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>jK/mu83ty6gFUHWk5SL11uXOI6L3S9GL/667D3fhz6s=</DigestValue>
+</Reference>
+<Reference URI="cameras%2Fcamera2.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+OLYxxdVEDL+6TTJhCnnzYKsdOTidQy31GLslfb9RMA=</DigestValue>
+</Reference>
+<Reference URI="cameras%2Fcamera3.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5jPb9fgVwhCOq6L/Yh3gWRhAWcqxLqvyGnW0VTacQQY=</DigestValue>
+</Reference>
+<Reference URI="cameras%2Fcamera4.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4vLsSvXK39LwvW5NjnZtFLdnjONETqrHKEQaA0SlEpI=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Cla5V8DFxisx4lOeqt/UFeBxMSsrBXnoOXAO7maqGOo=</DigestValue>
+<DigestValue>0HDAWl4vD6+OlRCH0zZG2vN3m0cjaGcomv1p/Aqwtq0=</DigestValue>
 </Reference>
 <Reference URI="css%2Fcameras-grid.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -28,11 +44,7 @@
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>gvky3Ca7mpQLrj4pB+We0HxYZoqZlRQUjNYheutdJQo=</DigestValue>
-</Reference>
-<Reference URI="detalhes-camera.html">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ZqFaWA6AVUPBiyXXhljtV6n6rD6ThYJ8JwvY1u8Hql4=</DigestValue>
+<DigestValue>WawRp8L2s1qpOlD8aV1L3odpjYincbePOREnFQwAHy0=</DigestValue>
 </Reference>
 <Reference URI="dist%2FCamerasIpApp.wgt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -48,11 +60,15 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2GQPlTzIUtuUR6abhXKZoqlpmE3I4j21TZnZgYBGCYE=</DigestValue>
+<DigestValue>mF1yt6rbPfLNPo2Yv02H8aBPAROA4+2X3aLycwLi32I=</DigestValue>
+</Reference>
+<Reference URI="js%2Fcamera-foco.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2kIwUXS30GR/oEVR29PItp7v3UJ6p3OfdsBhXoM0Gdo=</DigestValue>
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>79JEWaHDpL6VF9FRwDclU9+4ri9g9VCNe2r8JIOZ6d8=</DigestValue>
+<DigestValue>5MPfuAL4+vlzhQ5zAdoITAc5WKG+uZQ8w/5Ym+Z+Kxc=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -63,9 +79,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-bCL99NfJpBR5KM1KIzUyWjcaFGllC6Sg4UOxqSyN8zxuMxyEd++eugOD3w7ROvjGej74CcaalJ4R
-OzMisWdOKbX4vGVjnVv+mnVKrJlWv4Y3fHqfxnUImI23ciSnLp9qvY3Di3DiHO3aaz8y9A01uqe6
-bthiiTQ7JLEer8at0MY=
+OQRIekiUXicn2fX0ZgMVYCqTn8oudfGGQxTKB5Jej7qbpsgnnXaN4MVft7sDJG5ZY0TBYh8X8OTm
+NKfJW+2jreb9PaPv4dTO0Fr6r71rwc47bDBZNw0GAk2s/YAYdPkx6A0QL9pGRtX3ZogEEQ2w2ljQ
+n35tEXFJp/BzGjq/pxU=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

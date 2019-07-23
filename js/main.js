@@ -1,4 +1,3 @@
-//Initialize function
 var init = function () {
 	
     console.log('init() called');
@@ -7,21 +6,33 @@ var init = function () {
         if (document.hidden) {
             // Something you want to do when hide or exit.
         } else {
-            // Something you want to do when resume.
         	window.location.href = 'index.html';
         }
     });
- 
-    // add eventListener for keydown
+    
     document.addEventListener('keydown', function(e) {
     	switch (e.keyCode) {
     		
+    		// reference: https://developer.samsung.com/tv/develop/guides/user-interaction/remote-control
+    	
 	    	case 13: // Enter
 	        	window.location.href = 'index.html';
 	        	break;
     		
+	    	case 37: // ArrowLeft
+	        	window.location.href = 'cameras/camera1.html';
+	        	break;
+
 	    	case 38: // ArrowUp
-	        	window.location.href = 'detalhes-camera.html';
+	        	window.location.href = 'cameras/camera2.html';
+	        	break;
+
+	    	case 39: // ArrowRight
+	        	window.location.href = 'cameras/camera3.html';
+	        	break;
+
+	    	case 40: // ArrowDown
+	        	window.location.href = 'cameras/camera4.html';
 	        	break;
 	    	
 	    	case 10009: // Back
@@ -36,5 +47,4 @@ var init = function () {
     
 };
 
-// window.onload can work without <body onload="">
 window.onload = init;
