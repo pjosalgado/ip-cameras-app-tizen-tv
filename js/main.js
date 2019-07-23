@@ -15,10 +15,6 @@ var init = function () {
     		
     		// reference: https://developer.samsung.com/tv/develop/guides/user-interaction/remote-control
     	
-	    	case 13: // Enter
-	        	window.location.href = 'index.html';
-	        	break;
-    		
 	    	case 37: // ArrowLeft
 	        	window.location.href = 'cameras/camera1.html';
 	        	break;

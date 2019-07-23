@@ -16,6 +16,7 @@ var init = function () {
     		// reference: https://developer.samsung.com/tv/develop/guides/user-interaction/remote-control
     	
 	    	case 13: // Enter
+	    	case 10009: // Back
 	        	window.location.href = '../index.html';
 	        	break;
     		
@@ -34,10 +35,6 @@ var init = function () {
 	    	case 40: // ArrowDown
 	        	window.location.href = 'camera4.html';
 	        	break;
-	    	
-	    	case 10009: // Back
-	    		tizen.application.getCurrentApplication().exit();
-	    		break;
 	    	
 	    	default:
 	    		console.log('Key code : ' + e.keyCode);

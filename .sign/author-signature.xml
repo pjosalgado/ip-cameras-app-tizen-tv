@@ -60,11 +60,11 @@
 </Reference>
 <Reference URI="js%2Fcamera-foco.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>2kIwUXS30GR/oEVR29PItp7v3UJ6p3OfdsBhXoM0Gdo=</DigestValue>
+<DigestValue>W7oeW/bA7wC2wWnt0l165uMB7knm53k+xpLgTCo0GCE=</DigestValue>
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>5MPfuAL4+vlzhQ5zAdoITAc5WKG+uZQ8w/5Ym+Z+Kxc=</DigestValue>
+<DigestValue>FqM17Do0mTHYHCv7yyoxsbPkWTP/TmsmJtFKGED0ONY=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -75,11 +75,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-Pb+tkXnDVmgRXe6uLbtzbBMUZcFCrD9FjliJO3USLMRzDYwkB+otQk4uQQuldUYgVjBW1RUbf/1g
-W4YGN4maPq4kSdOeigHgTA2oG3k+81UbaSIlffwj972aQttHNshnWM9cRljXoNoPIrjm9psrnt8Z
-a5YsmoCmdU1PzEJcnNJ6brs88Uyd/dry7xNNBVrYBZOt46UWzzjt60ILAV5mQ2REbZ5pJ6IJmdkO
-DUqB+QnsKyjAe2x+9AD5HmhJZzDbGKIAMRzUO6QSOSUr2u7n5OnBFeBKujFv3Ke5XNNaYdrc8OSK
-k9WbNvnstXbtgFO5+QAKpRhm3ildWcSuEAtEgA==
+BShSJHdLC1L5Ko/5tWZyE+UZKP4gm2e9u2axxslxzwpo5m0Jb/0f/H18dJE2pbCoS+ivwMSzmCzr
+uqbVhagHsE0SCogTGtQko5xuywFPqI8sk9ftZ3NxMgzeYD0Ei9CwF57szHWRRUAsf4Lxaz7hJSX0
+gwlsjiCgkPg5GgRH7E9YZcji2faMrhgClt3/6hq2frO/yAe7l6XD0tKCYI6I+3krmwHEHBOcodeR
+hL4rF4sOGAw94iZ+ft8i4MDY25f5LMpYSkJh8HEyItAtOQeRISq6nQoIKqlRonYjab3S9/O/L90+
+N1IHpX2ynUPrNiVeUCSblAVRJdBz305W/v3icQ==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
