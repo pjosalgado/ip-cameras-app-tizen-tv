@@ -40,7 +40,7 @@
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>WawRp8L2s1qpOlD8aV1L3odpjYincbePOREnFQwAHy0=</DigestValue>
+<DigestValue>gvky3Ca7mpQLrj4pB+We0HxYZoqZlRQUjNYheutdJQo=</DigestValue>
 </Reference>
 <Reference URI="dist%2FCamerasIpApp.wgt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -75,11 +75,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-BShSJHdLC1L5Ko/5tWZyE+UZKP4gm2e9u2axxslxzwpo5m0Jb/0f/H18dJE2pbCoS+ivwMSzmCzr
-uqbVhagHsE0SCogTGtQko5xuywFPqI8sk9ftZ3NxMgzeYD0Ei9CwF57szHWRRUAsf4Lxaz7hJSX0
-gwlsjiCgkPg5GgRH7E9YZcji2faMrhgClt3/6hq2frO/yAe7l6XD0tKCYI6I+3krmwHEHBOcodeR
-hL4rF4sOGAw94iZ+ft8i4MDY25f5LMpYSkJh8HEyItAtOQeRISq6nQoIKqlRonYjab3S9/O/L90+
-N1IHpX2ynUPrNiVeUCSblAVRJdBz305W/v3icQ==
+eOqCD/uP7VmaeG9jpZD3He1PxihDuZWT4Eml/fx3zlTAU6h/x0MxoCGGwq3Kd2stvhBjZhpfALAB
+2ln7ydPKqhDILE0NJ44+ysEVwemLqoa0nrpFIVTexFi1EHmXE2KhxGLdUtsUOJpx/TR9LL95L8qI
+2eysLgmDmuLk/WqSsFl8T/EWOc+xfLa6BR4D57o1r5G90+nKJ3pHDbOoG8F9yOqzFJIa4iTchxUD
+wlpCrMJx9fiQrmUIsgNaCBxjvoZ+lNx+m7npWDf4r393bf+SH0PzcXIGtPDuJeXWgpdwuG+3zSVf
+oe6zFm3PwEts91uAzixvrqtdfopxBSrldBHYmQ==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
