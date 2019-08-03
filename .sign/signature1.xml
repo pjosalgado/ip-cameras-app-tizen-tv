@@ -12,7 +12,7 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>wsMIsIh8wpseDH6Xc/2j34/Pmr6iKhBrB991N+TJZj8=</DigestValue>
+<DigestValue>8AAsfasfdih1qqQcRWHUMvHH3NSev3spb76GUs9y0aQ=</DigestValue>
 </Reference>
 <Reference URI="cameras%2Fcamera1.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -44,7 +44,7 @@
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>WawRp8L2s1qpOlD8aV1L3odpjYincbePOREnFQwAHy0=</DigestValue>
+<DigestValue>gvky3Ca7mpQLrj4pB+We0HxYZoqZlRQUjNYheutdJQo=</DigestValue>
 </Reference>
 <Reference URI="dist%2FCamerasIpApp.wgt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -79,9 +79,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-apTVy7H02aC6a2xJspqnQ9B2Ja4qUFuwLjGruZac7AxFRvCM+Zr8RAf3N3yQP+di+bPAOgnc2eIh
-FRet2lV6+gpoKCTPx5TBGA+gw2Rd71XqZAgo8Uvfkl9OtCF5bw5XI7fXL702C2Oknb6VmNd/4JfJ
-TCFs6kAYc8seez51708=
+BGBrEQXdAiG15UKQSbIjtXqGwqsdCOahT8sZ2O2Ckbm5t+iV4uCUz2wgMELFCx4mezbqLeLxqT6T
+IGKVE8BFRXIowa2adpuQFtLb7sSL3+t+fo+TmhSnI1qOoXgAp8e6JHtzE5Zdxd6D8lC5fuxNWjBw
+mrHBNiyC/SZ1Szs/3sM=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
