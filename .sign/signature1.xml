@@ -12,23 +12,23 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>8AAsfasfdih1qqQcRWHUMvHH3NSev3spb76GUs9y0aQ=</DigestValue>
+<DigestValue>p0RV4HhYsy7unHQ6a0M//KQG+1xwNDGQKjXD4BLYc1c=</DigestValue>
 </Reference>
 <Reference URI="cameras%2Fcamera1.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>jK/mu83ty6gFUHWk5SL11uXOI6L3S9GL/667D3fhz6s=</DigestValue>
+<DigestValue>Mh5caEZj5TkTo8kjdsl4zGbeS0fOivA+3wgD+keqEtM=</DigestValue>
 </Reference>
 <Reference URI="cameras%2Fcamera2.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>+OLYxxdVEDL+6TTJhCnnzYKsdOTidQy31GLslfb9RMA=</DigestValue>
+<DigestValue>eHZmrZNfEHVhDhiuCGtmLw2oNa5K+rT35R8K1UP3BA4=</DigestValue>
 </Reference>
 <Reference URI="cameras%2Fcamera3.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>5jPb9fgVwhCOq6L/Yh3gWRhAWcqxLqvyGnW0VTacQQY=</DigestValue>
+<DigestValue>giR5xXWpDAPpctOKrBoX7F2tE4gT2Enq+WkxSrZYkYQ=</DigestValue>
 </Reference>
 <Reference URI="cameras%2Fcamera4.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>4vLsSvXK39LwvW5NjnZtFLdnjONETqrHKEQaA0SlEpI=</DigestValue>
+<DigestValue>ENFs75SF49EcT00bI4kGUu+cQerOGR90gARecKEqe/A=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -60,7 +60,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>mF1yt6rbPfLNPo2Yv02H8aBPAROA4+2X3aLycwLi32I=</DigestValue>
+<DigestValue>xd3bpzAcwdbKNuUEWlW4Fu3NlYypKehsRuqqT2JdGmI=</DigestValue>
 </Reference>
 <Reference URI="js%2Fcamera-foco.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -79,9 +79,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-BGBrEQXdAiG15UKQSbIjtXqGwqsdCOahT8sZ2O2Ckbm5t+iV4uCUz2wgMELFCx4mezbqLeLxqT6T
-IGKVE8BFRXIowa2adpuQFtLb7sSL3+t+fo+TmhSnI1qOoXgAp8e6JHtzE5Zdxd6D8lC5fuxNWjBw
-mrHBNiyC/SZ1Szs/3sM=
+MckA868ZZIVfHk6D/ZUrfnyZRPbfMWA2qRvgAwXOWYdpblqUyOa05v9CE1+QLlIOQOppRti3POUg
+YP4WCxLtfP4T2W3jbxRZloysKRKKQsE74TfR85hXWTmQalS8zOFL3OGlaUBZCySa/I1PBIsxzaSX
+fXeQlXg1QSHiHirfw2c=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
