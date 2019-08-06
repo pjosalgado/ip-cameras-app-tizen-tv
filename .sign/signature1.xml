@@ -12,11 +12,11 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>p0RV4HhYsy7unHQ6a0M//KQG+1xwNDGQKjXD4BLYc1c=</DigestValue>
+<DigestValue>OsSgUa7/k6hkwHxIhTlpOPg52IPNtTF6SlJ+zVuUre0=</DigestValue>
 </Reference>
 <Reference URI="cameras%2Fcamera1.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Mh5caEZj5TkTo8kjdsl4zGbeS0fOivA+3wgD+keqEtM=</DigestValue>
+<DigestValue>FZMhnopnBi1Ht6UDAdFGWOdPdNJklpCmx5v+SbaYVpI=</DigestValue>
 </Reference>
 <Reference URI="cameras%2Fcamera2.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -60,7 +60,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>xd3bpzAcwdbKNuUEWlW4Fu3NlYypKehsRuqqT2JdGmI=</DigestValue>
+<DigestValue>i1e7xv8cVC9UDnle/0qgxcnTCp2KytIXoRAbU/WZ8XY=</DigestValue>
 </Reference>
 <Reference URI="js%2Fcamera-foco.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -79,9 +79,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-MckA868ZZIVfHk6D/ZUrfnyZRPbfMWA2qRvgAwXOWYdpblqUyOa05v9CE1+QLlIOQOppRti3POUg
-YP4WCxLtfP4T2W3jbxRZloysKRKKQsE74TfR85hXWTmQalS8zOFL3OGlaUBZCySa/I1PBIsxzaSX
-fXeQlXg1QSHiHirfw2c=
+jut4H1v0OUAlvnguqDiDC4/O09rdLVcyqHoOP5ss+UykqmENjdDa5/TyO00fxQRF2EGkFVwA3fkk
+Dg01RHDTReZMySMPQPVi5CjJkSNxdJyJFhZNpBX6iX1qliQBUCuSwxpuc/bVJDNKURxdV2dTqdLn
+FAyo4La71v2tO4Jvb2E=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

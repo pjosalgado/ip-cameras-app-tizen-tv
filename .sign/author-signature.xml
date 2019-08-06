@@ -12,7 +12,7 @@
 </Reference>
 <Reference URI="cameras%2Fcamera1.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Mh5caEZj5TkTo8kjdsl4zGbeS0fOivA+3wgD+keqEtM=</DigestValue>
+<DigestValue>FZMhnopnBi1Ht6UDAdFGWOdPdNJklpCmx5v+SbaYVpI=</DigestValue>
 </Reference>
 <Reference URI="cameras%2Fcamera2.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -56,7 +56,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>xd3bpzAcwdbKNuUEWlW4Fu3NlYypKehsRuqqT2JdGmI=</DigestValue>
+<DigestValue>i1e7xv8cVC9UDnle/0qgxcnTCp2KytIXoRAbU/WZ8XY=</DigestValue>
 </Reference>
 <Reference URI="js%2Fcamera-foco.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -75,11 +75,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-TnHcHqnrQ9Scv1HcrSK9g5ZkBjGcThx4WNp4YJqGTRwbiJBecm7QzOJFYbZ96MIQo7KeVkdR/chF
-C7Q9dH3y7yKMrSLmHprtG5Me7zUHgPetLu8xb6HCnjZiRSilap4YY68eaivXTFl+YTU4VunTFXDJ
-SieHCqYjUIS9FIrNqVhorYM8uf54gF82t72NbLlxJp/ctbLsggoJL7W1+mzgHzFhTzaLgKNiKXwg
-aLTLymUjFqmErz0PG60j5/TsK2TKaRkIEDRz2lHexUsFOG/PW81nI+b9jm9AIvqg9D3QcZKxlNUE
-AmuelgP4y0oXzTuip+ZhR4q6zmOjnHCn8E7SHA==
+VbIZiEBt2VbgYh5XVJJIzU2wg5ZOa7M+1deZ1XdQ02hbhu+PWBNHnWn98bfKO4f47VBf3fpvLcPe
+qmFKYCDkWkZ1RtcUNmPD6aJSxobLDgoVeJHc2EAvgMCmMY54SQi+TzoBdHF9t242Bfjsj5ww7c6S
+Mrk1WGniZw5pXdSJKYz1IbGPhisPN3zxXMbWTwy5vPg8fcUZPjGqmogAqh35RrLXp9bxFwIKwltm
+WpQk6kO5SCutH+FQ2/uSe3nJ60ro/cz8ZFdTnW5k/cH9H5UKssMT3ec1kQTt8WmG/1GwW9s/cFnG
+bSP6RR2VjgEyNn6PF+FwAKD/8hc6mI48isf9Uw==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
