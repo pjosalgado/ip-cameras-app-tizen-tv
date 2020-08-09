@@ -1,91 +1,91 @@
 <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="DistributorSignature">
-<SignedInfo>
-<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
-<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
-<Reference URI=".gitignore">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>DKgBjHX/oWptTarAfjjl1DV5DfzrCz1F4+ty6YIdGMY=</DigestValue>
-</Reference>
-<Reference URI="LICENSE">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>VeA7WwZtfHri7sBW/MI8HFok05aK8LHUo5WFjfxFtak=</DigestValue>
-</Reference>
-<Reference URI="author-signature.xml">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>OsSgUa7/k6hkwHxIhTlpOPg52IPNtTF6SlJ+zVuUre0=</DigestValue>
-</Reference>
-<Reference URI="cameras%2Fcamera1.html">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>FZMhnopnBi1Ht6UDAdFGWOdPdNJklpCmx5v+SbaYVpI=</DigestValue>
-</Reference>
-<Reference URI="cameras%2Fcamera2.html">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>eHZmrZNfEHVhDhiuCGtmLw2oNa5K+rT35R8K1UP3BA4=</DigestValue>
-</Reference>
-<Reference URI="cameras%2Fcamera3.html">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>giR5xXWpDAPpctOKrBoX7F2tE4gT2Enq+WkxSrZYkYQ=</DigestValue>
-</Reference>
-<Reference URI="cameras%2Fcamera4.html">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ENFs75SF49EcT00bI4kGUu+cQerOGR90gARecKEqe/A=</DigestValue>
-</Reference>
-<Reference URI="config.xml">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>0HDAWl4vD6+OlRCH0zZG2vN3m0cjaGcomv1p/Aqwtq0=</DigestValue>
-</Reference>
-<Reference URI="css%2Fcameras-grid.css">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>VV0kONMUOn0j8RA2QY1K/w/e6+WkB+4z3DiRWqxF+h4=</DigestValue>
-</Reference>
-<Reference URI="css%2Fdetalhes-camera.css">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ldVnLkQOwtI+qDNaWWAl3cLA66gfEKJi6SbHku1X8c0=</DigestValue>
-</Reference>
-<Reference URI="css%2Fstyle.css">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>gvky3Ca7mpQLrj4pB+We0HxYZoqZlRQUjNYheutdJQo=</DigestValue>
-</Reference>
-<Reference URI="dist%2FCamerasIpApp.wgt">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>wXRvJFZz9OUHBjydZ33VuqlVJt4giVp0kFcz220Qj2I=</DigestValue>
-</Reference>
-<Reference URI="icon.png">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>zHnnOhLOYA2/IJcke4uNn6A0WLukgvZp/ObV1cr5fPM=</DigestValue>
-</Reference>
-<Reference URI="images%2Fno-connected-camera.jpg">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>okEe6085IHepI3g6yqyYS1c0A5C2U8hyUKTJEIWyagk=</DigestValue>
-</Reference>
-<Reference URI="index.html">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>i1e7xv8cVC9UDnle/0qgxcnTCp2KytIXoRAbU/WZ8XY=</DigestValue>
-</Reference>
-<Reference URI="js%2Fcamera-foco.js">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>W7oeW/bA7wC2wWnt0l165uMB7knm53k+xpLgTCo0GCE=</DigestValue>
-</Reference>
-<Reference URI="js%2Fmain.js">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>FqM17Do0mTHYHCv7yyoxsbPkWTP/TmsmJtFKGED0ONY=</DigestValue>
-</Reference>
-<Reference URI="#prop">
-<Transforms>
-<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
-</Transforms>
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>u/jU3U4Zm5ihTMSjKGlGYbWzDfRkGphPPHx3gJIYEJ4=</DigestValue>
-</Reference>
-</SignedInfo>
-<SignatureValue>
+    <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+        <Reference URI=".gitignore">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>DKgBjHX/oWptTarAfjjl1DV5DfzrCz1F4+ty6YIdGMY=</DigestValue>
+        </Reference>
+        <Reference URI="LICENSE">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>VeA7WwZtfHri7sBW/MI8HFok05aK8LHUo5WFjfxFtak=</DigestValue>
+        </Reference>
+        <Reference URI="author-signature.xml">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>OsSgUa7/k6hkwHxIhTlpOPg52IPNtTF6SlJ+zVuUre0=</DigestValue>
+        </Reference>
+        <Reference URI="cameras%2Fcamera1.html">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>FZMhnopnBi1Ht6UDAdFGWOdPdNJklpCmx5v+SbaYVpI=</DigestValue>
+        </Reference>
+        <Reference URI="cameras%2Fcamera2.html">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>eHZmrZNfEHVhDhiuCGtmLw2oNa5K+rT35R8K1UP3BA4=</DigestValue>
+        </Reference>
+        <Reference URI="cameras%2Fcamera3.html">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>giR5xXWpDAPpctOKrBoX7F2tE4gT2Enq+WkxSrZYkYQ=</DigestValue>
+        </Reference>
+        <Reference URI="cameras%2Fcamera4.html">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>ENFs75SF49EcT00bI4kGUu+cQerOGR90gARecKEqe/A=</DigestValue>
+        </Reference>
+        <Reference URI="config.xml">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>0HDAWl4vD6+OlRCH0zZG2vN3m0cjaGcomv1p/Aqwtq0=</DigestValue>
+        </Reference>
+        <Reference URI="css%2Fcameras-grid.css">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>VV0kONMUOn0j8RA2QY1K/w/e6+WkB+4z3DiRWqxF+h4=</DigestValue>
+        </Reference>
+        <Reference URI="css%2Fdetalhes-camera.css">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>ldVnLkQOwtI+qDNaWWAl3cLA66gfEKJi6SbHku1X8c0=</DigestValue>
+        </Reference>
+        <Reference URI="css%2Fstyle.css">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>gvky3Ca7mpQLrj4pB+We0HxYZoqZlRQUjNYheutdJQo=</DigestValue>
+        </Reference>
+        <Reference URI="dist%2FCamerasIpApp.wgt">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>wXRvJFZz9OUHBjydZ33VuqlVJt4giVp0kFcz220Qj2I=</DigestValue>
+        </Reference>
+        <Reference URI="icon.png">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>zHnnOhLOYA2/IJcke4uNn6A0WLukgvZp/ObV1cr5fPM=</DigestValue>
+        </Reference>
+        <Reference URI="images%2Fno-connected-camera.jpg">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>okEe6085IHepI3g6yqyYS1c0A5C2U8hyUKTJEIWyagk=</DigestValue>
+        </Reference>
+        <Reference URI="index.html">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>i1e7xv8cVC9UDnle/0qgxcnTCp2KytIXoRAbU/WZ8XY=</DigestValue>
+        </Reference>
+        <Reference URI="js%2Fcamera-foco.js">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>W7oeW/bA7wC2wWnt0l165uMB7knm53k+xpLgTCo0GCE=</DigestValue>
+        </Reference>
+        <Reference URI="js%2Fmain.js">
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>FqM17Do0mTHYHCv7yyoxsbPkWTP/TmsmJtFKGED0ONY=</DigestValue>
+        </Reference>
+        <Reference URI="#prop">
+            <Transforms>
+                <Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+            </Transforms>
+            <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+            <DigestValue>u/jU3U4Zm5ihTMSjKGlGYbWzDfRkGphPPHx3gJIYEJ4=</DigestValue>
+        </Reference>
+    </SignedInfo>
+    <SignatureValue>
 jut4H1v0OUAlvnguqDiDC4/O09rdLVcyqHoOP5ss+UykqmENjdDa5/TyO00fxQRF2EGkFVwA3fkk
 Dg01RHDTReZMySMPQPVi5CjJkSNxdJyJFhZNpBX6iX1qliQBUCuSwxpuc/bVJDNKURxdV2dTqdLn
 FAyo4La71v2tO4Jvb2E=
 </SignatureValue>
-<KeyInfo>
-<X509Data>
-<X509Certificate>
+    <KeyInfo>
+        <X509Data>
+            <X509Certificate>
 MIICmzCCAgQCCQDXI7WLdVZwiTANBgkqhkiG9w0BAQUFADCBjzELMAkGA1UEBhMCS1IxDjAMBgNV
 BAgMBVN1d29uMQ4wDAYDVQQHDAVTdXdvbjEWMBQGA1UECgwNVGl6ZW4gVGVzdCBDQTEiMCAGA1UE
 CwwZVGl6ZW4gRGlzdHJpYnV0b3IgVGVzdCBDQTEkMCIGA1UEAwwbVGl6ZW4gUHVibGljIERpc3Ry
@@ -99,7 +99,7 @@ hokKjzAzAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAvGp1gxxAIlFfhJH1efjb9BJK/rtRkbYn9+Ez
 GEbEULg1svsgnyWisFimI3uFvgI/swzr1eKVY3Sc8MQ3+Fdy3EkbDZ2+WAubhcEkorTWjzWz2fL1
 vKaYjeIsuEX6TVRUugHWudPzcEuQRLQf8ibZWjbQdBmpeQYBMg5x+xKLCJc=
 </X509Certificate>
-<X509Certificate>
+            <X509Certificate>
 MIICtDCCAh2gAwIBAgIJAMDbehElPNKvMA0GCSqGSIb3DQEBBQUAMIGVMQswCQYDVQQGEwJLUjEO
 MAwGA1UECAwFU3V3b24xDjAMBgNVBAcMBVN1d29uMRYwFAYDVQQKDA1UaXplbiBUZXN0IENBMSMw
 IQYDVQQLDBpUVGl6ZW4gRGlzdHJpYnV0b3IgVGVzdCBDQTEpMCcGA1UEAwwgVGl6ZW4gUHVibGlj
@@ -114,7 +114,19 @@ KO33YdoGudwanZIxMdXuxnnD9R6u72ltKk1S4zPfMJJv482CRGCI4FK6djhlsI4i0Lt1SVIJEed+
 yc3qckGm19dW+4xdlkekon7pViEBWuyHw8OWv3RXtTum1+PGHjBJ2eYY4ZKIpz73U/1NC16sTB/0
 VhfnkHwPltmrpYVe
 </X509Certificate>
-</X509Data>
-</KeyInfo>
-<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#DistributorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#DistributorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-distributor"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#DistributorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+        </X509Data>
+    </KeyInfo>
+    <Object Id="prop">
+        <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+            <SignatureProperty Id="profile" Target="#DistributorSignature">
+                <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile>
+            </SignatureProperty>
+            <SignatureProperty Id="role" Target="#DistributorSignature">
+                <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-distributor"></dsp:Role>
+            </SignatureProperty>
+            <SignatureProperty Id="identifier" Target="#DistributorSignature">
+                <dsp:Identifier></dsp:Identifier>
+            </SignatureProperty>
+        </SignatureProperties>
+    </Object>
 </Signature>

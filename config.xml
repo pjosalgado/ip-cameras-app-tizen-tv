@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://paulosalgado.xyz/CamerasIpApp" version="1.1.0" viewmodes="maximized">
     <access origin="*" subdomains="true"></access>
-    <tizen:application id="leHR3qXOGJ.CmerasIp" package="leHR3qXOGJ" required_version="2.3"/>
+    <tizen:application id="leHR3qXOGJ.CmerasIp" package="leHR3qXOGJ" required_version="2.3" />
     <author email="pjosalgado@gmail.com">Paulo Salgado</author>
-    <content src="index.html"/>
-    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
-    <icon src="icon.png"/>
+    <content src="index.html" />
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920" />
+    <icon src="icon.png" />
     <name>Câmeras IP</name>
-    <tizen:profile name="tv"/>
-    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+    <tizen:profile name="tv" />
+    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable" />
 </widget>
